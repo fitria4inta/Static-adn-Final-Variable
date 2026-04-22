@@ -13,8 +13,8 @@ class Counter {
 $c1 = new Counter();
 $c2 = new Counter();
 
-$c1->tambah();
-$c2->tambah();
+$c1->kurang();
+$c2->kurang();
 
 echo Counter::$jumlah;
 
