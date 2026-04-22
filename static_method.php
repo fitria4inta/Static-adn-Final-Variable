@@ -9,5 +9,5 @@ class Matematika {
 }
 
 echo Matematika::tambah(5, 3);
-echo"akufitri"
+
 ?>
