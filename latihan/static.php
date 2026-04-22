@@ -2,10 +2,10 @@
 
 class Counter {
 
-    public static $jumlah = 0;
+    public static $jumlah = 10;
 
     public function tambah() {
-        self::$jumlah++;
+        self::$jumlah--;
     }
 
 }
